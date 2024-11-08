@@ -5,3 +5,7 @@
 # Gráfico quantitativo de alunos estrangeiros matriculados em unidades brasileiras
 Nesse dashboard está representado quantos alunos tem para cada país onde podemos ver localidade no mapa mundi e sua respectiva bandeira
 ![image](https://github.com/user-attachments/assets/f4780e0b-c8fe-489d-a768-a58f8c07b04b)
+
+# Tarefa 2
+### Foi elaborada perguntas usando formulas SOMASE e CONTSE no excel e mostrado em gráficos no Power BI
+![image](https://github.com/user-attachments/assets/465edc03-ee22-440b-91dc-4078f4863a0a)
