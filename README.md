@@ -27,3 +27,7 @@ Nesse dashboard está representado quantos alunos tem para cada país onde podem
 <td><a href="https://www.linkedin.com/in/pedro-hernandes-720486212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
 <table>
+
+# Prova info
+![image](https://github.com/user-attachments/assets/19318e93-df96-4248-b220-73d2072a9a74)
+![image](https://github.com/user-attachments/assets/99b9dc7a-a47f-4e40-9f2c-24ac2be6e713)
